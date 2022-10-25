@@ -1,6 +1,6 @@
 # Unit 2 - D2
 
-1. Write a selector to target the h1 in the first “hero” section
+1. ~~Write a selector to target the h1 in the first “hero” section~~
 2. Write a selector to target every children of the navbar
 3. Write a selector to target the “continue reading…” inside the jumbotron
 4. Write a selector to target the first blogpost
