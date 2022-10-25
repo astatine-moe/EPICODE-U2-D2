@@ -60,3 +60,24 @@ main .blog-main .blog-post:nth-of-type(2) p.blog-post-meta a {
 main .blog-main .blog-post:nth-of-type(3) ul li:nth-child(2) {
     color: red !important;
 }
+
+/* 
+    Write a selector to target the “back to top” link you can find at the bottom-right corner
+*/
+body > a[href="#"].float-right {
+    color: red !important;
+}
+
+/*
+    Write a selector to target the “Newer” button at the bottom
+*/
+nav.blog-pagination a.btn.btn-outline-secondary {
+    color: red !important;
+}
+
+/*
+    Write a selector to target the footer’s second link
+*/
+footer.blog-footer p a:nth-child(2) {
+    color: red !important;
+}

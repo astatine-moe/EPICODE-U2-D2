@@ -9,9 +9,9 @@
 7. ~~Write a selector to target all the `<li>` into the first ordered-list in the sidebar ( Archives )~~
 8. ~~Write a selector to target the second blog-post author~~
 9. ~~Write a selector to target the second `<li>` in the third blog-post unordered-list~~
-10. Write a selector to target the “back to top” link you can find at the bottom-right corner
-11. Write a selector to target the “Newer” button at the bottom
-12. Write a selector to target the footer’s second link
+10. ~~Write a selector to target the “back to top” link you can find at the bottom-right corner~~
+11. ~~Write a selector to target the “Newer” button at the bottom~~
+12. ~~Write a selector to target the footer’s second link~~
 13. Write a JavaScript functionality to add a new link into the navbar
 14. Write a JavaScript functionality to change the color of the main heading title
 15. Write a JavaScript functionality to change the background of the jumbotron
