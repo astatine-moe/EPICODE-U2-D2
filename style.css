@@ -3,3 +3,9 @@
 */
 .jumbotron h1 {
 }
+
+/*
+    target children of the navbar
+*/
+.nav * {
+}
