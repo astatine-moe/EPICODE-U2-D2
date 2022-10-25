@@ -29,7 +29,13 @@ main .blog-main .blog-post:first-of-type {
 /*
     Write a selector to target the first blogpost `<hr>` and turn it red
 */
-
 main .blog-main .blog-post:first-of-type hr {
     border-top: 1px solid red;
+}
+
+/*
+    Write a selector to target the “even” links in the navbar   
+*/
+.nav span:nth-child(even) {
+    color: blue !important;
 }
