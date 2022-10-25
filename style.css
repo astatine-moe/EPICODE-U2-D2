@@ -46,3 +46,10 @@ main .blog-main .blog-post:first-of-type hr {
 aside.blog-sidebar .p-4:nth-child(2) ol li {
     border-bottom: 1px solid red !important;
 }
+
+/*
+    Write a selector to target the second blog-post author
+*/
+main .blog-main .blog-post:nth-of-type(2) p.blog-post-meta a {
+    color: red !important;
+}
