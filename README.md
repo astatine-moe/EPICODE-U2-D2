@@ -12,12 +12,12 @@
 10. ~~Write a selector to target the “back to top” link you can find at the bottom-right corner~~
 11. ~~Write a selector to target the “Newer” button at the bottom~~
 12. ~~Write a selector to target the footer’s second link~~
-13. Write a JavaScript functionality to add a new link into the navbar
-14. Write a JavaScript functionality to change the color of the main heading title
-15. Write a JavaScript functionality to change the background of the jumbotron
-16. Write a JavaScript functionality to remove the “twitter” link under the “Elsewhere” section in the aside element. It should happen when the page loads, automatically
-17. Write a JavaScript functionality to remove the first 50 characters in the first paragraph for every blog post
-18. Write a JavaScript functionality to add a new Blog Post (div with title and text)
-19. Write a JavaScript functionality to remove the last Blog Post when the user clicks on the “Older” button
-20. Write a JavaScript functionality that will create an alert with the name of the author every time the user hovers the mouse on an author’s name
-21. EXTRA Write a JavaScript functionality that will remove the corresponding parent card from the DOM, upon clicking on their “Continue reading” link
+13. ~~Write a JavaScript functionality to add a new link into the navbar~~
+14. ~~Write a JavaScript functionality to change the color of the main heading title~~
+15. ~~Write a JavaScript functionality to change the background of the jumbotron~~
+16. ~~Write a JavaScript functionality to remove the “twitter” link under the “Elsewhere” section in the aside element. It should happen when the page loads, automatically~~
+17. ~~Write a JavaScript functionality to remove the first 50 characters in the first paragraph for every blog post~~
+18. ~~Write a JavaScript functionality to add a new Blog Post (div with title and text)~~
+19. ~~Write a JavaScript functionality to remove the last Blog Post when the user clicks on the “Older” button~~
+20. ~~Write a JavaScript functionality that will create an alert with the name of the author every time the user hovers the mouse on an author’s name~~
+21. ~~EXTRA Write a JavaScript functionality that will remove the corresponding parent card from the DOM, upon clicking on their “Continue reading” link~~
