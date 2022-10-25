@@ -2,10 +2,19 @@
     Hero h1
 */
 .jumbotron h1 {
+    color: red !important;
 }
 
 /*
     target children of the navbar
 */
 .nav * {
+    color: red !important;
+}
+
+/*
+    Write a selector to target the “continue reading…” inside the jumbotron
+*/
+.jumbotron p a.font-weight-bold {
+    color: red !important;
 }
