@@ -39,3 +39,10 @@ main .blog-main .blog-post:first-of-type hr {
 .nav span:nth-child(even) {
     color: blue !important;
 }
+
+/*
+    Write a selector to target all the `<li>` into the first ordered-list in the sidebar ( Archives )
+*/
+aside.blog-sidebar .p-4:nth-child(2) ol li {
+    border-bottom: 1px solid red !important;
+}

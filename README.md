@@ -6,7 +6,7 @@
 4. ~~Write a selector to target the first blogpost~~
 5. ~~Write a selector to target the first blogpost `<hr>` and turn it red~~
 6. ~~Write a selector to target the “even” links in the navbar~~
-7. Write a selector to target all the `<li>` into the first ordered-list in the sidebar ( Archives )
+7. ~~Write a selector to target all the `<li>` into the first ordered-list in the sidebar ( Archives )~~
 8. Write a selector to target the second blog-post author
 9. Write a selector to target the second `<li>` in the third blog-post unordered-list
 10. Write a selector to target the “back to top” link you can find at the bottom-right corner
